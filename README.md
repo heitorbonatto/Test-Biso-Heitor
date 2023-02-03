@@ -8,7 +8,7 @@ Arquivo denominado index.js
 
 ## Instruções de como executar a solução
 
-1. Baixar/fazer downloado do repo no formato DownloadZip ou;
+1. Baixar/fazer download do repo no formato DownloadZip ou;
 
 2. Clonar o repo usando "gh repo clone heitorbonatto/Test-Biso-Heitor", via GitHub CLI
 
