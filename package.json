@@ -1,0 +1,25 @@
+{
+  "name": "test-biso-heitor",
+  "version": "1.0.0",
+  "description": "Test técnico BISO Heitor",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heitorbonatto/Test-Biso-Heitor.git"
+  },
+  "keywords": [
+    "teste",
+    "seleção",
+    "vaga",
+    "engenheiro"
+  ],
+  "author": "Heitor Bonatto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heitorbonatto/Test-Biso-Heitor/issues"
+  },
+  "homepage": "https://github.com/heitorbonatto/Test-Biso-Heitor#readme"
+}

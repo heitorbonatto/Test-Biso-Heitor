@@ -1,0 +1,5 @@
+Arquivo de entrada.txt      Função
+3                           size=3
+12                          lista de inteiros = [12,4,5]
+4
+5
