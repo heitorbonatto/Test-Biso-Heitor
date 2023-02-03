@@ -12,7 +12,7 @@ Arquivo denominado index.js
 
 2. Clonar o repo usando "gh repo clone heitorbonatto/Test-Biso-Heitor", via GitHub CLI
 
-3. Com o repo na sua máquina é só rodar no diretório denominado "Test-Biso-Heitor", o comando no terminal "npm test"
+3. Com o repo na sua máquina é só rodar no diretório denominado "Test-Biso-Heitor", o comando no terminal "npm test". Por favor, não esqueça que é necessário ter o NodeJS instalado em sua máquina.
 
 ## Arquivos para teste
 
